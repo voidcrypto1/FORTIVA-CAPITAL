@@ -1,0 +1,8 @@
+{
+  "name": "Remix FORTIVA CAPITAL",
+  "description": "A modern investment and wealth-management platform designed to give investors a clearer, structured way to access and manage digital asset opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
